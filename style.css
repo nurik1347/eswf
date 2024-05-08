@@ -1,0 +1,15 @@
+ol>li>img {
+    width: 20px;
+}
+
+.btn_add {
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.input_add {
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 5px;
+    border: solid 2px white;
+}
